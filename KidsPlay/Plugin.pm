@@ -601,12 +601,12 @@ sub setExecSecret() {
 	my $s = 10000000 + int(rand(89999999));
 	$prefs->set("execSecret",$s);
 }
-
+	# Changed file path linux from root to var
 sub secretFileName() {
 	if ($^O =~ m/Win32/) {
 		return 'c:\kidsplayexec.txt';
 	}
-	return '/kidsplayexec.txt';
+	return '/var/kidsplayexec.txt';
 }
 
 sub secretFileExists() {
