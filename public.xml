@@ -6,8 +6,8 @@
     <plugin name="KidsPlay custom" version="2.6.2" minTarget="7.9.0" maxTarget="*">
       <title lang="EN">KidsPlay custom</title>
       <desc lang="EN">KidsPlay custom</desc>
-      <url>https://github.com/Cadsters/KidsPlay/archive/master.zip</url>
-      <sha>7BC6370DA5EE83C09B6C0CDE2E2AD8E3BB62FD07</sha>
+      <url>https://github.com/Cadsters/KidsPlay-custom/releases/download/2.6.2/KidsPlay-custom-2.6.2.zip</url>
+      <sha>4BB5D13D57497EB31E5F53701451B9E1120D120F</sha>
       <creator>Peter Watkins</creator>
     </plugin>
   </plugins>
