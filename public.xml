@@ -1,0 +1,14 @@
+<extensions>
+  <details>
+    <title lang="EN">KidsPlay custom</title>
+  </details>
+  <plugins>
+    <plugin name="KidsPlay custom" version="2.6.2" minTarget="7.9.0" maxTarget="*">
+      <title lang="EN">KidsPlay custom</title>
+      <desc lang="EN">KidsPlay custom</desc>
+      <url>https://github.com/Cadsters/KidsPlay/archive/master.zip</url>
+      <sha></sha>
+      <creator>Peter Watkins</creator>
+    </plugin>
+  </plugins>
+</extensions>
